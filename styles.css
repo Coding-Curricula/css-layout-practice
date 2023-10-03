@@ -23,3 +23,25 @@ div.chris {
     margin: auto;
     border: 3px solid black;
 }
+
+#float-example{
+    float: right;
+
+}
+
+#float-ex1, #float-ex2, #float-ex3{
+    float: left;
+    padding: 10px;
+}
+
+.div1{
+    background-color: red;
+}
+
+.div2{
+    background-color: green;
+}
+
+.div3{
+    background-color: blue;
+}
